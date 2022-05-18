@@ -1,3 +1,7 @@
+Clone do Instagram feito no React js, atividade proposta pelo professor Gabriel Augusto do Instituo Proa
+
+React js é uma bilioteca de Javascript, utilizada para criar interfaces de forma mais rapida.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
