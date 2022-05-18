@@ -1,0 +1,67 @@
+<div class="outline-2">
+            <div class="max-w-md mx-auto bg-white overflow-hidden story md:max-w-lg scale-100">
+                <div class="md:flex out pt-2">
+                    <div class="w-full p-2 px-2 py-1">
+
+                        <ul class="flex space-x-4 overflow-hidden">
+
+                            <li class="flex flex-col items-center">
+                                <div class="rounded-full bg-gradient-to-br from-yellow-200 to-red-500 p-1">
+                                    <a href="#" class="bg-white p-1 rounded-full block transform transition hover:rotate-6">
+                                        <img src="https://i.imgur.com/aq39RMA.jpg" class="rounded-full" width="60"></img>
+                                    </a>
+                                </div>
+                                <span class="text-sm w-16 overflow-hidden overflow-ellipsis">riksy_stam143543</span>
+                            </li>
+
+                            <li class="flex flex-col items-center">
+                                <div class="rounded-full bg-gradient-to-br from-yellow-200 to-red-500 p-1">
+                                    <a href="#" class="bg-white p-1 rounded-full block transform transition hover:rotate-6">
+                                        <img src="https://i.imgur.com/eMaYwXn.jpg" class="rounded-full" width="60"></img>
+                                    </a>
+                                </div>
+                                <span class="text-sm w-16 overflow-hidden overflow-ellipsis">tina_2342</span>
+                            </li>
+
+                            <li class="flex flex-col items-center">
+                                <div class="rounded-full bg-gradient-to-br from-yellow-200 to-red-500 p-1">
+                                    <a href="#" class="bg-white p-1 rounded-full block transform transition hover:rotate-6">
+                                        <img src="https://i.imgur.com/zQZSWrt.jpg" class="rounded-full" width="60"></img>
+                                    </a>
+                                </div>
+                                <span class="text-sm w-16 overflow-hidden overflow-ellipsis">sujan_tomy</span>
+                            </li>
+
+                            <li class="flex flex-col items-center">
+                                <div class="rounded-full bg-gradient-to-br from-yellow-200 to-red-500 p-1">
+                                    <a href="#" class="bg-white p-1 rounded-full block transform transition hover:rotate-6">
+                                        <img src="https://i.imgur.com/agRGhBc.jpg" class="rounded-full" width="60"></img>
+                                    </a>
+                                </div>
+                                <span class="text-sm w-16 overflow-hidden overflow-ellipsis">rujanta_98432</span>
+                            </li>
+
+                            <li class="flex flex-col items-center">
+                                <div class="rounded-full bg-gradient-to-br from-yellow-200 to-red-500 p-1">
+                                    <a href="#" class="bg-white p-1 rounded-full block transform transition hover:rotate-6">
+                                        <img src="https://i.imgur.com/uIgDDDd.jpg" class="rounded-full" width="60"></img>
+                                    </a>
+                                </div>
+                                <span class="text-sm w-16 overflow-hidden overflow-ellipsis">rony_dusak2</span>
+                            </li>
+
+                            <li class="flex flex-col items-center">
+                                <div class="rounded-full bg-gradient-to-br from-yellow-200 to-red-500 p-1">
+                                    <a href="#" class="bg-white p-1 rounded-full block transform transition hover:rotate-6">
+                                        <img src="https://i.imgur.com/tT8rjKC.jpg" class="rounded-full" width="60"></img>
+                                    </a>
+                                </div>
+                                <span class="text-sm w-16 overflow-hidden overflow-ellipsis">tom_hank_fan</span>
+                            </li>
+
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+        </div>

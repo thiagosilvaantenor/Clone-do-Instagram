@@ -1,0 +1,147 @@
+/* Geral*/
+
+/* Header do post*/
+.post {
+  width: 614px;
+  border: 1px solid rgba(var(--b6a, 219, 219, 219), 1);
+  border-radius: 8px;
+  background-color: #fff;
+  margin: 0px -1px 24px;
+  
+}
+header{
+  display: flex;
+}
+
+.post__header {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  padding: 15px;
+}
+
+.post__header h3 {
+  padding-left: 20px;
+  
+}
+.post__header div {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  float: right;
+}
+
+.post_foto_perfil {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+}
+
+.mais {
+  width: 20px;
+  height: 20px;
+}
+
+/* main do post*/
+.post__image {
+  width: 612px;
+}
+
+.icons-text {
+  display: flex;
+  justify-content: space-between;
+  padding-inline: 0 16px;
+  width: 100%;
+  margin-top: 4px;
+}
+.post-icons {
+  width: 100%;
+  height: 46px;
+  display: flex;
+  align-items: stretch; 
+  margin: 0px 12px 6px;
+  }
+
+.post-icons button {
+  width: 40px;
+  height: 40px;
+  padding: 8px;
+}
+
+.post-icons button svg{
+width: 24px;
+height: 24px;
+}
+
+div.icons-fav-comm-share {
+  display: flex;
+  padding-left: 8px;
+  margin-left: 45px;
+}
+
+.save {
+width: 40px;
+height: 40px;
+display: inline-block;
+margin-left: auto;
+margin-right: -10px;
+}
+
+.space {
+    display: block;
+    position: relative;
+  
+
+}
+
+.post__text,
+.post_ver_comentarios,
+.post_horario {
+  padding: 0px 16px;
+}
+.post_ver_comentarios,
+.post_horario {
+  color: #8e8e8e;
+}
+.post_horario {
+  font-size: 10px;
+  padding: 0px 0px 0px 16px;
+  margin: 0px 0px 16px;
+}
+
+/* footer do post*/
+.post_comentario {
+  display: inline-block;
+  padding-left: 16px;
+  padding-right: 16px;
+  width: 100%;
+  line-height: 18px;
+  border-radius: 5px;
+}
+.form_coments {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  text-align: center;
+}
+
+.publicar {
+  color: rgba(var(--d69, 0, 149, 246), 1);
+  opacity: 0.3;
+}
+
+textarea {
+  width: 350px;
+  color: rgba(var(--i1d, 38, 38, 38), 1);
+  background: none;
+  resize: none;
+  overflow: auto;
+  border: hidden;
+  padding-top: 5px;
+  text-align: left;
+  margin-right: 120px;
+}
+textarea:focus {
+  outline: none;
+  box-shadow: 0 0;
+}
