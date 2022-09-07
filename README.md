@@ -1,74 +1,77 @@
-Clone do Instagram feito no React js, atividade proposta pelo professor Gabriel Augusto do Instituo Proa
+<div align="center">
 
-React js é uma bilioteca de Javascript, utilizada para criar interfaces de forma mais rapida.
+## Clone do Instagram
 
-# Getting Started with Create React App
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+[![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">Clone do Instagram feito com React js, atividade proposta pelo professor Gabriel Augusto do Instituto Proa.<br>
+React js é uma bilioteca de Javascript, utilizada para criar interfaces de forma mais rapida. <br>
+A ideia era fazer um clone da pagina inicial do Instragram, contendo a barra de Stories, a barra de pesquisa, algumas postagens, e a barra lateral de suguestões</p>
+</div>
 
-## Available Scripts
+# Índice
+=================
+<!--ts-->
+   * [Titulo](#clone-do-instagram)
+   * [Índice](#índice)
+   * [Demonstração](#demonstração)
+   * [Instalação](#instalação)
+      * [Pré Requisitos](#pré-requisitos)
+      * [Rodando o projeto](#rodando-o-projeto)
+   * [Tecnologias 🛠](#tecnologias)
+   * [Agradecimentos](#agradecimentos)
+   * [Autor](#autor)
+   <!--te-->
+   
+   
+## Demonstração
 
-In the project directory, you can run:
+Demonstração em GIF
 
-### `npm start`
+<img src="https://media.giphy.com/media/dpznCeWxgIanOZl34j/giphy.gif" />
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+[Demonstração em video](https://www.linkedin.com/posts/thiago-antenor_reactjs-css-instagram-activity-6932804757677817856-UdMj?utm_source=share&utm_medium=member_desktop)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Instalação
 
-### `npm test`
+## Pré Requisitos:
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+* [VSCode](https://code.visualstudio.com/)
+* [NODE](https://nodejs.org/pt-br/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Rodando o projeto
 
-### `npm run build`
+Abra a pasta do projeto no VSCODE;
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Com o nodejs instalado, abra um terminal no VSCode e instale as dependencias do projeto, utilizando o comando: "npm install", sem as aspas;
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Por fim, com o projeto instalado, use o comando "npm start" sem aspas, a Aplicacao está rodando, por padrão ela pode ser visualizada em http://localhost:3000
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Tecnologias 
 
-### `npm run eject`
+As seguintes ferramentas foram usadas na construção do projeto:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- [Node.js](https://nodejs.org/en/)
+- [React JS](https://github.com/angular/angular-cli)
+- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [TailwindCSS](https://tailwindcss.com)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Agradecimentos
+Agradeço ao Instituo PROA e ao meu professor [Gabriel Augusto](https://github.com/gabaugusto)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Autor
+<div align="center">
+<a href="https://www.linkedin.com/in/thiago-antenor/">
+<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/99970279?v=4" width="100px;" alt="foto do autor"/>
+ <br />
+ <sub><b>Thiago Silva Antenor</b></sub></a> <a href="https://www.linkedin.com/in/thiago-antenor/" title="Linkedin"> 🧑🏾‍💻</a>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+Feito por Thiago Silva Antenor 👨🏾‍💻 Entre em contato!
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-antenor/)](https://www.linkedin.com/in/thiago-antenor/) 
+[![Gmail Badge](https://img.shields.io/badge/-thiagoantenor31@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagoantenor31.com)](mailto:thiagoantenor31.com)
+</div>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
