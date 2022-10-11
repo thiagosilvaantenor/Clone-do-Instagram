@@ -6,9 +6,9 @@
 [![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<p align="center">Clone do Instagram feito com React js, atividade proposta pelo professor Gabriel Augusto do Instituto Proa.<br>
-React js é uma bilioteca de Javascript, utilizada para criar interfaces de forma mais rapida. <br>
-A ideia era fazer um clone da pagina inicial do Instragram, contendo a barra de Stories, a barra de pesquisa, algumas postagens, e a barra lateral de suguestões</p>
+<p align="center">Clone do Instagram feito com ReactJS, atividade proposta pelo professor Gabriel Augusto do Instituto Proa.
+ReactJS é uma biblioteca de Javascript, utilizada para criar interfaces de forma mais rápida.
+A ideia era fazer um clone da pagina inicial do Instagram, contendo a barra de Stories, a barra de pesquisa, algumas postagens, e a barra lateral de sugestões</p>
 </div>
 
 # Índice
